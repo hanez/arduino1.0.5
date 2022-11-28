@@ -1,2 +1,2 @@
-# arduino1.0.5
-# arduino1.0.5
+# Code for the Arduino IDE version 1.0.5.
+
